@@ -6,4 +6,4 @@ Script en Python que genera base de datos e inserts con dato aleatorios
   
 ### Uso del script
 Ejecutar con python.py colocando los argumentos necesarios
-.py nombre_bd name_table
+geneador_db.py nombre_bd name_table cantidad_inserts
